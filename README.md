@@ -22,6 +22,7 @@ A curated list of 100+ awesome documentation platforms, tools, and resources. In
 Tools for building and managing API documentation.
 
 1.  **[Apidog](https://apidog.com/)** - All-in-One API development platform that includes API design, debugging, testing, and documentation.
+[![](https://assets.apidog.com/static/www/assets/images/20250606/api-design-first.png)](https://apidog.com)
 2.  [Swagger](https://swagger.io/) - A powerful set of tools for designing, building, and documenting APIs.
 3.  [Postman](https://www.postman.com/) - A collaboration platform for API development, which includes documentation features.
 4.  [Redoc](https://github.com/Redocly/redoc) - OpenAPI/Swagger-generated API Reference Documentation.
