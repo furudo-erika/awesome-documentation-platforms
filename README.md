@@ -174,6 +174,7 @@ Collections of various documentation tools.
 8.  [readme.so](https://readme.so/) - An online editor to help you create a README file.
 9.  [Shepherd](https://shepherdjs.dev/) - A guide to building a tour for your app.
 10. [Squoosh](https://squoosh.app/) - An image compression web app.
+11. [NextJSON](https://nextjson.com/) - A free online nested JSON parser, formatter and JSON toolbox for API documentation and examples.
 
 ## Other Tools
 
