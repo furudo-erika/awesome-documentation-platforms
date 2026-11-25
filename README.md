@@ -50,6 +50,7 @@ Tools for building and managing API documentation.
 14. [Spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML linter for creating automated style guides.
 15. [widdershins](https://github.com/Mermade/widdershins) - An OpenAPI/Swagger/AsyncAPI to Markdown converter.
 16. [Zalando RESTful API and Event Guidelines](https://opensource.zalando.com/restful-api-guidelines/) - A comprehensive guide for designing RESTful APIs.
+17. [DocsAlot](https://docsalot.dev) - Hosted API documentation platform with OpenAPI support, interactive API playgrounds, and SDK examples.
 
 ## Site Generators
 
@@ -87,6 +88,7 @@ Tools for creating and managing a knowledge base.
 8.  [Document360](https://document360.com/) - A knowledge base platform for creating user manuals and guides.
 9.  [Bit.ai](https://bit.ai/) - A document collaboration platform for teams to create, manage, and track documents.
 10. [KnowAll](https://herothemes.com/themes/knowall-knowledge-base-wordpress-theme/) - A knowledge base theme for WordPress.
+11. [DocsAlot](https://docsalot.dev) - Knowledge base platform with AI assistants, MCP integration, and AI-readable content.
 
 ## Editor
 
@@ -114,6 +116,7 @@ Platforms for hosting documentation websites.
 5.  [Doctave](https://doctave.com/) - A documentation hosting platform for developers.
 6.  [Docs by Hashnode](https://hashnode.com/docs) - A free documentation hosting platform for developers.
 7.  [Mintlify](https://mintlify.com/) - A beautiful, fast, and easy-to-use documentation hosting platform.
+8.  [DocsAlot](https://docsalot.dev) - Hosted docs-as-code platform with GitHub integration, custom domains, and AI-readable documentation.
 
 ## Quality Assurance
 
